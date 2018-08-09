@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Audiowide);
 
-.hm-container {
+.container {
     position:absolute;
 
     width: 271px;
@@ -16,7 +16,7 @@
     border-radius:10px;
 }
 
-.hm-title {
+.title {
     padding-left: 70px;
     padding-right: 60px;
     font-family: 'Audiowide', cursive;

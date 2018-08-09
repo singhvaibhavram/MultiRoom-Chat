@@ -1,0 +1,22 @@
+{
+  "name": "multiroomchat",
+  "version": "1.0.0",
+  "description": "Chat on multiple topics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhvaibhavram/MultiRoom-Chat.git"
+  },
+  "author": "Ramnarayan Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhvaibhavram/MultiRoom-Chat/issues"
+  },
+  "homepage": "https://github.com/singhvaibhavram/MultiRoom-Chat#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
